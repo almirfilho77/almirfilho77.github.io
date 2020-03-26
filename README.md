@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 You can contact me at these adresses:
 
-- [Linkedin](https://linkedin.com/in/almir-firmo
+- [Linkedin](https://linkedin.com/in/almir-firmo)

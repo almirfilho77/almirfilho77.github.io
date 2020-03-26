@@ -1,5 +1,3 @@
-title: Something
-
 ## Welcome to my projects page!
 
 This is a page dedicated to my personal projects. Go ahead, explore it and enjoy!
